@@ -74,7 +74,7 @@ HTML_PAGE = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Motor IA de Estoque</title>
+    <title>Cadastro de Produtos</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
@@ -88,11 +88,7 @@ HTML_PAGE = """
     <nav class="bg-slate-900 text-white shadow-md p-4 flex justify-between items-center">
         <div class="flex items-center space-x-3">
             <i class="fa-solid fa-microchip text-indigo-400 text-xl"></i>
-            <h1 class="text-xl font-bold tracking-wide">Data Annotation & Ingestão IA</h1>
-        </div>
-        <div class="flex items-center text-xs font-semibold text-emerald-400 bg-slate-800 px-3 py-1.5 rounded-full border border-slate-700">
-            <span class="relative flex h-2 w-2 mr-2"><span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span><span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span></span>
-            Motor Conectado
+            <h1 class="text-xl font-bold tracking-wide">Cadastro de Produtos com IA</h1>
         </div>
     </nav>
 
