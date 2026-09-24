@@ -2,6 +2,8 @@
 
 Um ecossistema completo para gestão de catálogos e atendimento automatizado, utilizando Modelos de Linguagem de Grande Escala (LLMs) e Visão Computacional multimodal.
 
+LINK DO VÍDEO DE APRESENTAÇÃO: `https://youtu.be/8r-xoJ6MhEw`
+
 ## 📌 Visão Geral do Projeto
 
 Este projeto resolve o problema da automação no comércio varejista (focado em calçados). O sistema atua em duas frentes:
